@@ -10,7 +10,7 @@
 
     section#login{
         width: 80vw;
-        height: 280px;
+        height: 350px;
         display: flex;
     }
 
@@ -39,7 +39,7 @@
 
     section#login{
         width: 950px ;
-        
+        height: 450px;
     }
 
     section#login > div#imagem {
