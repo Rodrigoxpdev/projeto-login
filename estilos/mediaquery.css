@@ -10,6 +10,8 @@
 
     section#login{
         width: 80vw;
+        height: 280px;
+        display: flex;
     }
 
     section#login > div#imagem {
@@ -22,7 +24,6 @@
         float: right;
         width: 70%;
     }
-
 
 }
 
